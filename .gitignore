@@ -11,8 +11,8 @@ logs/
 *.so
 
 # .txt
-*.txt
-flow.txt
+# *.txt
+# flow.txt
 
 # Distribution / packaging
 .Python
